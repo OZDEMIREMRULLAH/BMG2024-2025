@@ -1,0 +1,1 @@
+print('Ramazan tekin editledi.')
