@@ -1,2 +1,2 @@
 print('Ramazan tekin editledi.')
-print('Enes editledi')
+print('Abdullah Enes editledi')
